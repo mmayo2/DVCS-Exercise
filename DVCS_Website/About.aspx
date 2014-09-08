@@ -8,7 +8,7 @@
 
     <article>
         <p>        
-            Use this area to provide additional information.
+            I am in the Digital Media and IT program.
         </p>
 
         <p>        
