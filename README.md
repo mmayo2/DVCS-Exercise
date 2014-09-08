@@ -2,4 +2,4 @@ DVCS-Exercise
 =============
 GitHub for windows(DVCS) - Exercise
 
-Using Github for Windows exercise.
+Coded in Visual Studio 2012 (Version 2013 not installed yet.)
